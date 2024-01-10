@@ -67,10 +67,9 @@ add3 n4(d4,c4);
 add3 n5(d5,c5);
 add3 n6(d6,c6);
 add3 n7(d7,c7);
-//add in 5 more of these as necessary, look at diagram
+//add in 5 more of these as necessary
 
 assign scoreOnes = {c5[2:0],scoreInput[0]}; //two bits that will make-up hundreds, finish the line, follow the block diagram.
 assign scoreTens = {c7[2:0],c5[3]};
-//^^^Finish this!!!
 
 endmodule
