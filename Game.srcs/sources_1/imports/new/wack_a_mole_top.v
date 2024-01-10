@@ -36,11 +36,10 @@ module Whack_a_Mole(   //Top Module
 	
 	bcd7seg UBCDSEG(mux_out, seg); //Converts bcd to seven segment
 	
-    timerClock UTCK(clk, timer_clk_out);
+        timerClock UTCK(clk, timer_clk_out);
 	
 	timerCount UTC(clk, reset, timer_count);
 	
-	//game u9(clk, sw, reset, LED, score_count);//make a game file here
-	game UGM(clk, sw, reset, led, score_count);//make a game file here
+	game UGM(clk, sw, reset, led, score_count);
 	
 endmodule
