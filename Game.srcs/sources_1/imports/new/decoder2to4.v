@@ -1,22 +1,8 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date: 11/19/2020 11:32:37 AM
-// Design Name: 
 // Module Name: decoder2to4
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Name: Komal Joshi
+//Roll No.: 21PHC1R16
 //////////////////////////////////////////////////////////////////////////////////
 
 
